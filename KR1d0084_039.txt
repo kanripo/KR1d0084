@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮書
-#+DATE: 2015-09-23 09:38:43
-#+PROPERTY: JUAN 39
+#+DATE: 2015-08-24 22:11:35.322157
+#+PROPERTY: ID KR1d0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十九
 <pb:KR1d0084_WYG_039-1a>¶
 欽定四庫全書¶
 　禮書卷三十九¶
@@ -296,4 +298,3 @@
 　而議者以此為周官春入貢之禮是附㑹之論也¶
 　¶
 　禮書卷三十九¶
-

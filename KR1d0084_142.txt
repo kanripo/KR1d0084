@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮書
-#+DATE: 2015-09-23 09:38:44
-#+PROPERTY: JUAN 142
+#+DATE: 2015-08-24 22:11:37.314011
+#+PROPERTY: ID KR1d0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百四十三
 <pb:KR1d0084_WYG_142-1a>¶
 欽定四庫全書¶
 　禮書卷一百四十三¶
@@ -81,4 +83,3 @@
 　¶
 　¶
 　禮書卷一百四十三¶
-

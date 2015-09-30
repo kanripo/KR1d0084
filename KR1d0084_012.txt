@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮書
-#+DATE: 2015-09-23 09:38:43
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:11:34.906393
+#+PROPERTY: ID KR1d0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1d0084_WYG_012-1a>¶
 欽定四庫全書¶
 　禮書卷十二¶
@@ -152,4 +154,3 @@
 　¶
 　¶
 　禮書卷十二¶
-

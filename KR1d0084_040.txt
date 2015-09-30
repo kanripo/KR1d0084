@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮書
-#+DATE: 2015-09-23 09:38:43
-#+PROPERTY: JUAN 40
+#+DATE: 2015-08-24 22:11:35.339717
+#+PROPERTY: ID KR1d0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十
 <pb:KR1d0084_WYG_040-1a>¶
 欽定四庫全書¶
 　禮書卷四十¶
@@ -242,4 +244,3 @@
 　復子明辟為還政之事以誕保文武受命惟七年為¶
 　還政之時是皆不知書者也¶
 　禮書卷四十¶
-

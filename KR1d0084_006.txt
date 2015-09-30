@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮書
-#+DATE: 2015-09-23 09:38:43
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:11:34.819581
+#+PROPERTY: ID KR1d0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1d0084_WYG_006-1a>¶
 欽定四庫全書¶
 　禮書卷六¶
@@ -206,4 +208,3 @@
 不削幅者帷裳而已(孔子曰非帷裳必殺之詩曰斬車/帷裳雜記曰緇布裳帷則車與捾)¶
 (之飾音/曰帷裳)孰謂深衣之裳乃削幅耶¶
 　禮書卷六¶
-

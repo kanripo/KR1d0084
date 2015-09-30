@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮書
-#+DATE: 2015-09-23 09:38:44
-#+PROPERTY: JUAN 120
+#+DATE: 2015-08-24 22:11:36.887065
+#+PROPERTY: ID KR1d0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百二十一
 <pb:KR1d0084_WYG_120-1a>¶
 欽定四庫全書¶
 　禮書卷一百二十一¶
@@ -135,4 +137,3 @@
 　(于首亦為翔鷺傍又扶二小鼔左曰鞞右曰應然詩/言應田縣鼔則周制王之應田在縣鼓之側不在建)¶
 　(鼔傍/矣)¶
 　禮書卷一百二十一¶
-

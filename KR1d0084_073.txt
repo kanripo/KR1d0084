@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮書
-#+DATE: 2015-09-23 09:38:43
-#+PROPERTY: JUAN 73
+#+DATE: 2015-08-24 22:11:35.920187
+#+PROPERTY: ID KR1d0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十四
 <pb:KR1d0084_WYG_073-1a>¶
 欽定四庫全書¶
 　禮書卷七十四¶
@@ -262,4 +264,3 @@
 　(又周蠻夷傳巴梁間俗毎秋祭祀取鄉里鬚靣人迭/迎為尸以祭之唐柳道州人毎祭祀迎同姓丈夫婦)¶
 　(人狎神以享亦/為尸之遺法)¶
 　禮書卷七十四¶
-

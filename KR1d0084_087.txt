@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮書
-#+DATE: 2015-09-23 09:38:43
-#+PROPERTY: JUAN 87
+#+DATE: 2015-08-24 22:11:36.206983
+#+PROPERTY: ID KR1d0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十八
 <pb:KR1d0084_WYG_087-1a>¶
 欽定四庫全書¶
 　禮書卷八十八¶
@@ -187,4 +189,3 @@
 　¶
 　¶
 　禮書卷八十八¶
-
